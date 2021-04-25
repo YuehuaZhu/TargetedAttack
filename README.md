@@ -10,7 +10,7 @@ The goal of the targeted attack is to slightly modify source image in a way that
 
 final rank: 11/2519
 
-[Competition home page](https://tianchi.aliyun.com/competition/entrance/231701/introduction?spm=5176.12281915.0.0.71a94b15lWaznZ)
+[Competition home page](https://tianchi.aliyun.com/competition/entrance/231701/introduction?spm=5176.12281915.0.0.71a94b15lWaznZ) & [Certificate](https://github.com/YuehuaZhu/IJCAI2019-TargetAttackChallenge/blob/main/checkpoints/%E5%A4%A9%E6%B1%A0-%E6%8E%92%E5%90%8D%E8%AF%81%E4%B9%A6.png)
 
 ## Method
 
