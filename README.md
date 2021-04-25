@@ -1,6 +1,3 @@
-# IJCAI2019-TargetAttackChallenge
-
-
 # IJCAI-2019 Alibaba Adversarial AI Challenge
 
 ## Background
